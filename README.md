@@ -110,6 +110,32 @@ The notebook contains dataset preparation, annotation conversion, YOLO training,
 8. Run inference on PCB images.
 9. Visualize the detection results.
 
+    ## 🔍 Detection Results
+
+### Excess Solder
+![Excess Solder](excess%20solder.jpg)
+
+### Insufficient Solder and Misalignment
+![Insufficient Solder and Misalignment](insufficient%20soldering%20%2B%20misalignment.jpg)
+
+### Misalignment
+![Misalignment](misalignment.jpg)
+
+### Missing Hole
+![Missing Hole](missing%20hole.jpg)
+
+### Mouse Bite
+![Mouse Bite](mouse%20bite.jpg)
+
+### Open Circuit
+![Open Circuit](open%20circuit.jpg)
+
+### Poor Solder
+![Poor Solder](poor%20solder.jpg)
+
+### Spikey Solder
+![Spikey Solder](spikey%20solder.jpg)
+
 ## 👩‍💻 Author
 
 **Shrinavya Illur**
